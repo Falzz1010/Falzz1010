@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="150" src="https://github.com/nickopaijo/nickopaijo/blob/main/img/code.gif"/>
+  <img height="150" src="https://github.com/Falzz1010/Falzz1010/blob/main/img/code.gif"/>
   <h1>Hey there, I'm Naufal Rizky P 👋</h1>
   <p>🚀 Full-Stack Developer | 💡 Tech Enthusiast | 🌱 Lifelong Learner</p>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nickopaijo&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Falzz1010&color=blueviolet" alt="Profile views" />
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
@@ -35,25 +35,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nickopaijo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Falzz1010&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickopaijo&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Falzz1010&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nickopaijo&theme=darkhub&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Falzz1010&theme=darkhub&column=7" alt="GitHub Trophies" />
 </p>
 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nickopaijo/nickopaijo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Falzz1010/Falzz1010/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<p align="center">⭐️ From [nickopaijo](https://github.com/nickopaijo)</p>
+<p align="center">⭐️ From [Falzz1010](https://github.com/Falzz1010)</p>
