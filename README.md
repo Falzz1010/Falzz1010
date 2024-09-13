@@ -42,16 +42,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Falzz1010&theme=radical" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falzz1010&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Falzz1010&theme=darkhub&column=7" alt="GitHub Trophies" />
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Falzz1010/Falzz1010/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
