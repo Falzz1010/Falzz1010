@@ -1,8 +1,8 @@
 <div align="center">
   <img height="150" src="https://github.com/Falzz1010/Falzz1010/blob/main/img/code.gif"/>
  
- Hai, saya Naufal Rizky P 👋</h1>
-  <p>🚀 フルスタック開発者 | 💡 テクノロジーエンスージアスト | 🌱 生涯学習者 | 🚀 Pengembang Full-Stack | 💡 Penggemar Teknologi | 🌱 Pembelajar Seumur Hidup</p>
+  <h1>Hey there, I'm Naufal Rizky P 👋</h1>
+  <p>🚀 Full-Stack Developer | 💡 Tech Enthusiast | 🌱 Lifelong Learner</p>
 </div>
 
 <p align="center">
