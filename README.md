@@ -13,10 +13,11 @@
 
 ## 👨‍💻 私について | Tentang Saya
 
-- 🔭 現在のプロジェクトに取り組んでいます [Your Current Project] | Saya sedang mengerjakan [Proyek Saat Ini]
-- 🌱 現在学んでいる技術やスキル [Technology or Skill] | Saya sedang belajar [Teknologi atau Keahlian]
-- 👯 革新的なプロジェクトで協力したい | Saya ingin berkolaborasi dalam proyek inovatif
-- 💬 フルスタック開発、DevOps、またはその他の技術関連の質問について聞いてください | Tanyakan saya tentang Pengembangan Full-Stack, DevOps, atau hal terkait teknologi lainnya
+- 🔭 UI/UX デザイナー & フロントエンド開発者として活動中 | Aktif sebagai UI/UX Designer & Frontend Developer
+- 🔭 現在はユーザー体験を重視したウェブアプリケーションの開発に取り組んでいます | Sedang mengembangkan aplikasi web yang fokus pada pengalaman pengguna
+- 🌱 最新のデザインツールとフロントエンド技術を学習中 | Sedang mempelajari alat desain dan teknologi frontend terbaru
+- 👯 クリエイティブなウェブプロジェクトでの協力を希望しています | Ingin berkolaborasi dalam proyek web kreatif
+- 💬 UI/UXデザイン、フロントエンド開発、ウェブ技術について質問してください | Tanyakan saya tentang UI/UX Design, Frontend Development, dan teknologi web
 
 ## 🛠️ 技術 & ツール | Teknologi & Alat
 
@@ -31,6 +32,15 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
 ## 📊 GitHub統計 | Statistik GitHub
