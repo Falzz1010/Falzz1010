@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi, my name is Naufal Rizky<br>👀 I’m interested in technology<br>🌱 I’m currently learning ${javascript}, ${flutter} and front-end stuff
+👋 Hi, I'm Naufal Rizky! <br>
+🚀 Passionate about technology and software development <br>
+🌱 Currently learning cutting-edge technologies <br>
+🎯 Focused on Web Development, UI/UX, and Cloud Computing
+
+
 
 
 ## 🌐 Socials:
