@@ -37,7 +37,8 @@ With a vision to innovate and contribute to impactful projects in the tech indus
 ## 🐍 Grafik Kontribusi
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nickopaijo/nickopaijo/output/snake.svg" alt="スネークアニメーション | Animasi Ular" />
+  ### 🐍 Snake Animation
+  <img src="https://raw.githubusercontent.com/Falzz1010/Falzz1010/output/snake.svg" alt="スネークアニメーション | Animasi Ular" />
 </p>
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
