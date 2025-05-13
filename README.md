@@ -6,7 +6,7 @@ Experienced in working with Agile methodologies, I thrive in collaborative envir
 
 With a vision to innovate and contribute to impactful projects in the tech industry, I am eager to collaborate with like-minded professionals and organizations that value technology as a catalyst for growth and transformation.
 
-## Explore the Journey Together
+## Explore the Journey Together 
 
 <sub>_Join me on this exciting path — let’s connect and create something great!_</sub>
 
