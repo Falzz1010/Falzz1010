@@ -42,6 +42,9 @@ With a vision to innovate and contribute to impactful projects in the tech indus
   <img src="https://raw.githubusercontent.com/Falzz1010/Falzz1010/output/github-contribution-grid-snake.svg" alt="スネークアニメーション | Animasi Ular" />
 </p>
 
+![GitHub Snake Dark](https://raw.githubusercontent.com/Falzz1010/Falzz1010/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
+
 
 
