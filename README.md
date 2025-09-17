@@ -33,7 +33,7 @@ With a vision to innovate and contribute to impactful projects in the tech indus
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Falzz1010&count_private=true&show_icons=true&line_height=40)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falzz1010)](https://github.com/hnifmaghfur/github-readme-stats)
 
-[![@falzz1010's Holopin board](https://holopin.io/api/user/board?user=falzz1010)](https://holopin.io/@falzz1010)
+[![An image of @falzz1010's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/falzz1010)](https://holopin.io/@falzz1010)
 
 ## 🐍 Grafik Kontribusi
 
@@ -47,6 +47,7 @@ With a vision to innovate and contribute to impactful projects in the tech indus
 
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
+
 
 
 
