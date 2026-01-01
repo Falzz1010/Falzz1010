@@ -60,8 +60,10 @@ I enjoy working in **collaborative environments**, applying **Agile methodologie
 
 ## 📊 GitHub Statistics
 
+![GitHub Stats](https://img.shields.io/github/stars/Falzz1010?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Falzz1010?style=for-the-badge)
+![Repos](https://img.shields.io/github/repo-size/Falzz1010/Falzz1010?style=for-the-badge)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Falzz1010)
 
 
 > **Note:** Top languages reflect GitHub activity, not absolute skill level.
@@ -94,5 +96,6 @@ I enjoy working in **collaborative environments**, applying **Agile methodologie
   <b>Thanks for stopping by! 🚀</b><br/>
   Let’s collaborate and build something impactful together.
 </div>
+
 
 
