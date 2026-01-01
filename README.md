@@ -31,7 +31,7 @@ With a vision to innovate and contribute to impactful projects in the tech indus
 | Version Control        | ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://camo.githubusercontent.com/c571a11f4f9c2837f8f3697fd8ee7fc54e7eb6f0a607273e0cac50a0a44f8fef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d464646464646)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Falzz1010&count_private=true&show_icons=true&line_height=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Falzz1010)](https://github.com/hnifmaghfur/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Falzz1010)](https://github.com/Falzz1010/github-readme-stats)
 ![GitHub Streak](https://github-readme-streak-stats-phi-opal.vercel.app/?user=Falzz1010&theme=dark&hide_border=true&background=18181B)
 
 
@@ -49,6 +49,7 @@ With a vision to innovate and contribute to impactful projects in the tech indus
 
 
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
+
 
 
 
