@@ -1,58 +1,101 @@
-## Hi! 👋 I am Naufal Rizky
+<h1 align="center">
+  Hi there, I'm <b>Naufal Rizky Putera</b> 👋
+</h1>
 
-Passionate about leveraging technology to create innovative solutions that address real-world challenges. With a strong background in web development and UI/UX design, I specialize in HTML, CSS, JavaScript, Tailwind CSS, WordPress, and Figma. My expertise lies in crafting seamless digital experiences through user-centered design and scalable front-end development.
+<div align="center">
+  <p><i>“Building digital experiences that are useful, usable, and meaningful.”</i></p>
+</div>
 
-Experienced in working with Agile methodologies, I thrive in collaborative environments where creativity and problem-solving drive success. I am dedicated to continuous learning, staying ahead of industry trends, and applying best practices in Mobile-First Development to deliver high-performance web solutions.
+<div align="center">
+  <p>
+    <b>Front-End Web Developer</b> & <b>UI/UX Enthusiast</b><br/>
+    Passionate about crafting modern, responsive, and user-centered web applications.
+  </p>
+</div>
 
-With a vision to innovate and contribute to impactful projects in the tech industry, I am eager to collaborate with like-minded professionals and organizations that value technology as a catalyst for growth and transformation.
+<hr/>
 
-## Explore the Journey Together 
+## 😊 About Me
 
-<sub>_Join me on this exciting path — let’s connect and create something great!_</sub>
+I am a passionate web developer who loves turning ideas into real-world digital solutions.  
+My main focus is **front-end development** and **UI/UX design**, ensuring every product is not only functional but also visually pleasing and easy to use.
 
-[![Linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)][linkedin]
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)][github]
-[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)][threads]
+I enjoy working in **collaborative environments**, applying **Agile methodologies**, and continuously learning new technologies to stay relevant in the fast-moving tech industry.
 
-[linkedin]: https://www.linkedin.com/in/naufal-rizky-putera/
-[github]: https://github.com/Falzz1010
-[threads]: https://threads.net/rizkyfalzz
+💡 **Core principles I believe in:**
+- User-first design
+- Mobile-first development
+- Clean & scalable code
+- Continuous improvement
 
+<hr/>
 
 ## 🔧 Technologies & Tools
 
-| Categories             | Contents                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Languages              | ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://camo.githubusercontent.com/5a53cb94ce2dc5c5a4da1c0d8b3483f93fe4b32c2e7b59f9dba73207f31b6179/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f2d3030414444383f7374796c653d666f722d7468652d6261646765266c6f676f3d476f266c6f676f436f6c6f723d464646464646)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| Frameworks & Libraries | ![](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![](https://camo.githubusercontent.com/f7cd904f20f89bd90bab2f3706fc12b0362b937dee33c4738506c30fd34e2c81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f636b65742e696f2d3031303130313f7374796c653d666f722d7468652d6261646765266c6f676f3d536f636b65742e696f266c6f676f436f6c6f723d464646464646) ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![](https://camo.githubusercontent.com/424e703ff5ad4bc2b415ab3ba0074d57f3edb4fbe24f41a801c58e1d0b5b7774/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f47696e2d3030384543463f7374796c653d666f722d7468652d6261646765266c6f676f3d47696e266c6f676f436f6c6f723d464646464646) ![](https://camo.githubusercontent.com/dea3b74be397f6d35a9ef0397025c899238b53cc3b107865ea4fb0f0dd318996/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3232323232323f7374796c653d666f722d7468652d6261646765266c6f676f3d53657175656c697a65266c6f676f436f6c6f723d353242304537)                                                                                                                                                                                                                                                                                                                                                                            |
-| Databases              | ![Post](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white) ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Testing                | ![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| Tools                  | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![](https://camo.githubusercontent.com/fd4619fd57a54589269fab117f834d1cfcf0d8895851066366be51c2d5833a97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f6e6172517562652d3445394243443f7374796c653d666f722d7468652d6261646765266c6f676f3d536f6e617251756265266c6f676f436f6c6f723d464646464646) ![](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://camo.githubusercontent.com/3fbcc71952138caffcce66e029dc350a8a3a06307ebe7e877a23c0683a68c833/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d5562756e7475266c6f676f436f6c6f723d464646464646) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff) |
-| Version Control        | ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![](https://camo.githubusercontent.com/c571a11f4f9c2837f8f3697fd8ee7fc54e7eb6f0a607273e0cac50a0a44f8fef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d476974266c6f676f436f6c6f723d464646464646)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+### 💻 Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Falzz1010&count_private=true&show_icons=true&line_height=40)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Falzz1010)](https://github.com/Falzz1010/github-readme-stats)
-![GitHub Streak](https://github-readme-streak-stats-phi-opal.vercel.app/?user=Falzz1010&theme=dark&hide_border=true&background=18181B)
+### 📚 Frameworks & Libraries
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-[![An image of @falzz1010's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/falzz1010)](https://holopin.io/@falzz1010)
+### 🛠️ Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🐍 Grafik Kontribusi
+<hr/>
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  ### 🐍 Snake Animation
-  <img src="https://raw.githubusercontent.com/Falzz1010/Falzz1010/output/github-contribution-grid-snake.svg" alt="スネークアニメーション | Animasi Ular" />
-  
-  ![GitHub Snake Dark](https://raw.githubusercontent.com/Falzz1010/Falzz1010/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  <img src="https://github-readme-stats.vercel.app/api?username=Falzz1010&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Falzz1010&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falzz1010&layout=compact&theme=tokyonight" />
+</p>
 
+> **Note:** Top languages reflect GitHub activity, not absolute skill level.
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github
+<hr/>
 
+## 🐍 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Falzz1010/Falzz1010/output/github-contribution-grid-snake.svg" />
+</p>
 
+<hr/>
 
+## 🤝 Let’s Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/naufal-rizky-putera/">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/>
+  </a>
+  <a href="https://github.com/Falzz1010">
+    <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"/>
+  </a>
+  <a href="https://threads.net/rizkyfalzz">
+    <img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white"/>
+  </a>
+</p>
 
-
+<div align="center">
+  <b>Thanks for stopping by! 🚀</b><br/>
+  Let’s collaborate and build something impactful together.
+</div>
