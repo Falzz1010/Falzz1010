@@ -60,22 +60,9 @@ I enjoy working in **collaborative environments**, applying **Agile methodologie
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Falzz1010&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Falzz1010&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falzz1010&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=Falzz1010)
+
 
 > **Note:** Top languages reflect GitHub activity, not absolute skill level.
 
@@ -107,4 +94,5 @@ I enjoy working in **collaborative environments**, applying **Agile methodologie
   <b>Thanks for stopping by! 🚀</b><br/>
   Let’s collaborate and build something impactful together.
 </div>
+
 
