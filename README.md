@@ -58,11 +58,34 @@ I enjoy working in **collaborative environments**, applying **Agile methodologie
 
 <hr/>
 
-## 📊 GitHub Statistics
+<h2><b>📊 GitHub Statistics</b></h2>
 
-![GitHub Stats](https://img.shields.io/github/stars/Falzz1010?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Falzz1010?style=for-the-badge)
-![Repos](https://img.shields.io/github/repo-size/Falzz1010/Falzz1010?style=for-the-badge)
+<table>
+<tr>
+
+<td width="33%" valign="top">
+<div align="center">
+  <h3>📈 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Falzz1010&show_icons=true&theme=radical&cache_seconds=86400" width="100%"/>
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div align="center">
+  <h3>🔥 GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Falzz1010&theme=radical&cache_seconds=86400" width="100%"/>
+</div>
+</td>
+
+<td width="33%" valign="top">
+<div align="center">
+  <h3>🔤 Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falzz1010&layout=compact&theme=radical&cache_seconds=86400" width="100%"/>
+</div>
+</td>
+
+</tr>
+</table>
 
 
 
@@ -96,6 +119,7 @@ I enjoy working in **collaborative environments**, applying **Agile methodologie
   <b>Thanks for stopping by! 🚀</b><br/>
   Let’s collaborate and build something impactful together.
 </div>
+
 
 
 
