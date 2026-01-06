@@ -74,7 +74,7 @@ I enjoy working in **collaborative environments**, applying **Agile methodologie
 
 <div align="center">
   <h3>🔥 GitHub Streak</h3>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Falzz1010&theme=radical" width="100%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=falzz1010&theme=radical" width="100%"/>
 </div>
 
 </td>
@@ -121,6 +121,7 @@ I enjoy working in **collaborative environments**, applying **Agile methodologie
   <b>Thanks for stopping by! 🚀</b><br/>
   Let’s collaborate and build something impactful together.
 </div>
+
 
 
 
