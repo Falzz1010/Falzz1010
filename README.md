@@ -35,15 +35,7 @@ Figma • VS Code • Git • Postman
 ---
 
 ## Proyek Unggulan
-(Silakan ganti judul, deskripsi, dan link dengan proyek nyata dari repo Anda)
-- Project-A — Aplikasi web responsif untuk ... (React, Next.js, Tailwind)  
-  Link: https://github.com/Falzz1010/project-a
-- Project-B — Dashboard atau fitur khusus dengan TypeScript & Firebase  
-  Link: https://github.com/Falzz1010/project-b
-- Project-C — Design system / component library yang dapat digunakan ulang  
-  Link: https://github.com/Falzz1010/project-c
 
-Ingin saya bantu isi bagian ini otomatis dari repo favoritmu? Sebutkan 2–3 repo yang mau ditonjolkan.
 
 ---
 
