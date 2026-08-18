@@ -21,3 +21,67 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ```bash
 npx Falzz1010
+
+const naufal = {
+  name: "Naufal Rizky Putera",
+  pronouns: ["he", "him"],
+  languages: ["TypeScript", "JavaScript", "Python", "Dart"], // Sesuaikan dengan bahasamu
+  askMeAbout: [
+    "web development",
+    "mobile app development",
+    "cloud architecture",
+    "generative AI",
+    "system design"
+  ],
+
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js"],
+      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
+      uiLibraries: [
+        "Material UI",
+        "Ant Design",
+        "Chakra UI",
+        "shadcn/ui"
+      ]
+    },
+
+    backend: {
+      node: ["Node.js", "Express", "NestJS"],
+      python: ["Flask"]
+    },
+
+    mobile: {
+      crossPlatform: ["Flutter"]
+    },
+
+    devOps: {
+      tools: ["Docker", "GitHub Actions", "Nginx"],
+      practices: ["CI/CD", "Infrastructure as Code"]
+    },
+
+    cloud: {
+      aws: [
+        "EC2",
+        "S3",
+        "RDS",
+        "Lambda",
+        "Fargate"
+      ]
+    },
+
+    databases: {
+      relational: ["PostgreSQL"],
+      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
+      inMemory: ["Redis"]
+    }
+  },
+
+  architecture: {
+    frontend: ["SPA", "SSR"],
+    backend: ["monolith", "microservices", "serverless"],
+    data: ["relational", "nosql", "in-memory"]
+  },
+currentFocus:"Building scalable applications and exploring new technologies", // Sesuaikan dengan fokusmu
+funFact: "Most bugs disappear after a coffee and a clean commit history"
+};
