@@ -1,87 +1,23 @@
-# Hi — Saya Naufal Rizky Putera 👋
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Naufal Rizky Putera! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>[POSISI_PEKERJAAN_KAMU] at <a href="#">[NAMA_PERUSAHAAN_KAMU]</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-> Building digital experiences that are useful, usable, and meaningful.
+[![Twitter Follow](https://img.shields.io/twitter/follow/[USERNAME_TWITTER_KAMU]?label=Follow)](https://twitter.com/intent/follow?screen_name=[USERNAME_TWITTER_KAMU])
+[![Linkedin: Naufal](https://img.shields.io/badge/-Naufal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[USERNAME_LINKEDIN_KAMU]/)](https://www.linkedin.com/in/[USERNAME_LINKEDIN_KAMU]/)
+![GitHub followers](https://img.shields.io/github/followers/Falzz1010?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=[URL_WEBSITE_KAMU])]([URL_WEBSITE_KAMU])
+![](https://visitor-badge.glitch.me/badge?page_id=Falzz1010.Falzz1010)
+![Waka Readme](https://github.com/Falzz1010/Falzz1010/workflows/Waka%20Readme/badge.svg)
+<a href="https://trendshift.io/developers/[ID_TRENDSHIFT_JIKA_ADA]" target="_blank"><img src="https://trendshift.io/api/badge/developers/[ID_TRENDSHIFT]" alt="Falzz1010 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
-Saya Front‑End Web Developer & UI/UX Enthusiast yang fokus membuat aplikasi web modern, responsif, dan ramah pengguna. Saya suka bekerja kolaboratif, menerapkan praktik clean code, dan terus belajar teknologi front‑end terbaru.
+### 📫 Like to meet me?
 
----
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-## Daftar Isi
-- [Tentang Saya](#tentang-saya)
-- [Keahlian](#keahlian)
-- [Proyek Unggulan](#proyek-unggulan)
-- [Statistik GitHub](#statistik-github)
-- [Kontak](#kontak)
+<a href="[URL_CALENDLY_KAMU]" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
----
+👇 Hit in your console or terminal to connect with me.
 
-## Tentang Saya
-- Fokus: Front‑end development (React, Next.js, TypeScript) & UI/UX design (Figma).  
-- Pendekatan: User‑first design, mobile‑first, aksesibilitas, dan scalable code.  
-- Pengalaman bekerja di tim Agile dan membangun antarmuka yang mudah digunakan.
-
----
-
-## Keahlian
-### Bahasa & Framework
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • Express
-
-### Database & Backend
-MySQL • PostgreSQL • MongoDB • Firebase
-
-### Tools
-Figma • VS Code • Git • Postman
-
----
-
-## Proyek Unggulan
-
-
----
-
-## Statistik GitHub
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<div align="center">
-  <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Falzz1010&show_icons=true&theme=radical" width="100%"/>
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-  <h3>🔥 GitHub Streak</h3>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Falzz1010&theme=radical" width="100%"/>
-</div>
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-  <h3>🔤 Top Languages</h3>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Falzz1010&layout=compact&theme=radical" width="100%"/>
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Falzz1010/Falzz1010/output/github-contribution-grid-snake.svg" alt="contribution-graph" />
-</p>
-
----
-
-## Kontak
-- LinkedIn: https://www.linkedin.com/in/naufal-rizky-putera/  
-- GitHub: https://github.com/Falzz1010  
-- Threads: https://threads.net/rizkyfalzz  
-- Email: your.email@example.com (tambahkan email bila ingin ditampilkan)
+```bash
+npx Falzz1010
