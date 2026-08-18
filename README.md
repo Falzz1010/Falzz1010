@@ -27,6 +27,81 @@
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                336 commits         ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+🌆 Daytime                663 commits         █████████████░░░░░░░░░░░░   52.83 % 
+🌃 Evening                204 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   210 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+Tuesday                  174 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Wednesday                190 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Thursday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Friday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Saturday                 208 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Sunday                   143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Dart                     15 hrs 55 mins      ████████████████████░░░░░   79.58 % 
+Python                   1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+PowerShell               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+XML                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+
+🔥 Editors: 
+Antigravity IDE          15 hrs 42 mins      ████████████████████░░░░░   78.44 % 
+Claude Code              3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Antigravity Desktop      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+
+🐱‍💻 Projects: 
+split_bill               9 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.41 % 
+agro                     9 hrs 20 mins       ████████████░░░░░░░░░░░░░   46.70 % 
+Unknown Project          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+stitch_agrivision_ai_agri13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+portfolio-astro-main     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+
+💻 Operating System: 
+Windows                  20 hrs              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 19 hrs 57 mins (99.73%)
+
+✍️ 8,144 lines written by AI, 5 lines written by hand (99.94% AI-written)
+
+🔤 24,617,139 Input Tokens, 1,783,763 Output Tokens
+
+💵 $834.35 Estimated AI Cost This Week
+
+🧠 38 AI Sessions, 350 AI Prompts
+
+Deepseek                 7,910 lines         ████████████████████░░░░░   79.36 % 
+Opus                     1,495 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Gemini                   562 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 6,754 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -44,7 +119,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Falzz1010/Falzz1010/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 03:53:01 UTC
+ Last Updated on 18/08/2026 04:04:02 UTC
 <!--END_SECTION:waka-->
 
 
