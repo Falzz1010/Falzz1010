@@ -1,7 +1,6 @@
 <h2> Hi, I'm Naufal Rizky Putera! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Frontaend Developer at <a href="[LINK_KAMPUS_ATAU_PERUSAHAAN]">[NAMA_KAMPUS_ATAU_PERUSAHAAN]</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-</em></p>
+<p><em>Frontaend Developer at
 
 [![Linkedin: Naufal](https://img.shields.io/badge/-Naufal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[USERNAME_LINKEDIN_KAMU]/)](https://www.linkedin.com/in/[USERNAME_LINKEDIN_KAMU]/)
 [![GitHub Falzz1010](https://img.shields.io/github/followers/Falzz1010?label=follow&style=social)](https://github.com/Falzz1010)
