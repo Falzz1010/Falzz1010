@@ -19,7 +19,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 523 Contributions in the Year 2026
+> 🏆 524 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,21 +30,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                338 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-🌆 Daytime                675 commits         █████████████░░░░░░░░░░░░   53.15 % 
-🌃 Evening                205 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌞 Morning                338 commits         ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+🌆 Daytime                676 commits         █████████████░░░░░░░░░░░░   53.19 % 
+🌃 Evening                205 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   210 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Tuesday                  175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Wednesday                191 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Thursday                 197 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Friday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Saturday                 209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Sunday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Monday                   211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Tuesday                  175 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Wednesday                191 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Thursday                 197 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Friday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Saturday                 209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Sunday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
 ```
 
 
@@ -54,46 +54,45 @@ Sunday                   144 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     6 hrs 35 mins       ████████████████████░░░░░   78.25 % 
-PowerShell               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Dart                     5 hrs 48 mins       ███████████████████░░░░░░   75.99 % 
+PowerShell               31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 
 🔥 Editors: 
-Antigravity IDE          7 hrs 53 mins       ███████████████████████░░   93.52 % 
-Claude Code              32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Antigravity IDE          7 hrs 38 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-split_bill               7 hrs 56 mins       ████████████████████████░   94.10 % 
-portfolio-astro-main     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+split_bill               7 hrs 8 mins        ███████████████████████░░   93.49 % 
+portfolio-astro-main     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 💻 Operating System: 
-Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 21 mins (99.23%)
+⏱ AI Coding Time: 7 hrs 34 mins (99.15%)
 
-✍️ 3,181 lines written by AI, 7 lines written by hand (99.78% AI-written)
+✍️ 2,669 lines written by AI, 7 lines written by hand (99.74% AI-written)
 
-🔤 5,570,883 Input Tokens, 643,327 Output Tokens
+🔤 3,932,456 Input Tokens, 567,117 Output Tokens
 
-💵 $343.90 Estimated AI Cost This Week
+💵 $314.93 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 120 AI Prompts
+🧠 12 AI Sessions, 115 AI Prompts
 
-Deepseek                 3,597 lines         ██████████████████████░░░   86.57 % 
-Opus                     558 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Deepseek                 3,253 lines         █████████████████████████   98.61 % 
+Opus                     46 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📝 Concise Prompter — average 482 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🤖 AI-Driven — 99.74% of written lines came from AI
+📝 Concise Prompter — average 312 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +112,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Falzz1010/Falzz1010/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 19:01:17 UTC
+ Last Updated on 24/08/2026 19:13:41 UTC
 <!--END_SECTION:waka-->
 
 
