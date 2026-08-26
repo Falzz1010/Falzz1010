@@ -19,7 +19,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 526 Contributions in the Year 2026
+> 🏆 527 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,6 +27,70 @@
  > 
 > 🔑 44 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                339 commits         ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+🌆 Daytime                678 commits         █████████████░░░░░░░░░░░░   53.22 % 
+🌃 Evening                205 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+🌙 Night                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   211 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Tuesday                  177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Wednesday                192 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Thursday                 197 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Friday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+Saturday                 209 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+Sunday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Dart                     1 hr 7 mins         █████████████████████░░░░   83.58 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+
+🔥 Editors: 
+Antigravity IDE          1 hr 20 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+split_bill               1 hr 20 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 19 mins (99.6%)
+
+✍️ 436 lines written by AI, 1 lines written by hand (99.77% AI-written)
+
+🔤 930,407 Input Tokens, 58,341 Output Tokens
+
+💵 $35.82 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 21 AI Prompts
+
+Deepseek                 440 lines           █████████████████████████   100.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.77% of written lines came from AI
+📝 Concise Prompter — average 348 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -44,7 +108,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Falzz1010/Falzz1010/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 19:13:16 UTC
+ Last Updated on 26/08/2026 20:43:54 UTC
 <!--END_SECTION:waka-->
 
 
