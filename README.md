@@ -19,32 +19,32 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 552 Contributions in the Year 2026
+> 🏆 560 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 292 Public Repositories 
  > 
-> 🔑 45 Private Repositories 
+> 🔑 46 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                369 commits         ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-🌆 Daytime                696 commits         █████████████░░░░░░░░░░░░   51.56 % 
-🌃 Evening                230 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-🌙 Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+🌞 Morning                384 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+🌆 Daytime                701 commits         █████████████░░░░░░░░░░░░   50.54 % 
+🌃 Evening                247 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+🌙 Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Tuesday                  179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Wednesday                198 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Thursday                 199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Friday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Saturday                 256 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Monday                   233 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Tuesday                  179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Thursday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Friday                   145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Saturday                 278 commits         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Sunday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 
 
@@ -54,56 +54,56 @@ Sunday                   146 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     3 hrs 20 mins       █████████████████████░░░░   84.49 % 
-CMake                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Kotlin                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Dart                     2 hrs 29 mins       ███████████████████████░░   92.31 % 
+CMake                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Antigravity IDE          3 hrs 57 mins       █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-split_bill               2 hrs 3 mins        █████████████░░░░░░░░░░░░   51.83 % 
-print_doctor             1 hr 54 mins        ████████████░░░░░░░░░░░░░   48.17 % 
+print_doctor             1 hr 31 mins        ██████████████░░░░░░░░░░░   56.89 % 
+split_bill               1 hr 9 mins         ███████████░░░░░░░░░░░░░░   43.11 % 
 
 💻 Operating System: 
-Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 57 mins (99.76%)
+⏱ AI Coding Time: 2 hrs 41 mins (99.79%)
 
-✍️ 2,713 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,397 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,509,162 Input Tokens, 168,622 Output Tokens
+🔤 1,554,967 Input Tokens, 99,584 Output Tokens
 
-💵 $123.01 Estimated AI Cost This Week
+💵 $81.76 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 68 AI Prompts
+🧠 11 AI Sessions, 41 AI Prompts
 
-Mimo                     2,183 lines         ███████████████████░░░░░░   76.89 % 
-Gemini                   645 lines           ██████░░░░░░░░░░░░░░░░░░░   22.72 % 
-Sonnet                   11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Mimo                     1,097 lines         ██████████████████░░░░░░░   72.65 % 
+Gemini                   402 lines           ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+Sonnet                   11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 682 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 628 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               49 repos            ███████████░░░░░░░░░░░░░░   42.24 % 
-HTML                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Go                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+TypeScript               49 repos            ██████████░░░░░░░░░░░░░░░   41.88 % 
+HTML                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Dart                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 ```
 
 
@@ -113,7 +113,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Falzz1010/Falzz1010/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 21:09:37 UTC
+ Last Updated on 10/09/2026 21:09:30 UTC
 <!--END_SECTION:waka-->
 
 
