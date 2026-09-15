@@ -9,42 +9,42 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-72%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-73%20hrs%205%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 574 Contributions in the Year 2026
+> 🏆 575 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 293 Public Repositories 
+> 📜 294 Public Repositories 
  > 
 > 🔑 46 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                387 commits         ███████░░░░░░░░░░░░░░░░░░   27.64 % 
-🌆 Daytime                708 commits         █████████████░░░░░░░░░░░░   50.57 % 
-🌃 Evening                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+🌞 Morning                387 commits         ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+🌆 Daytime                709 commits         █████████████░░░░░░░░░░░░   50.61 % 
+🌃 Evening                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
 🌙 Night                  55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-Tuesday                  179 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Thursday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Monday                   239 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Tuesday                  180 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Wednesday                199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Thursday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 Friday                   150 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Saturday                 279 commits         █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Sunday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Saturday                 279 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Sunday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 ```
 
 
@@ -54,47 +54,46 @@ Sunday                   147 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     44 mins             ████████░░░░░░░░░░░░░░░░░   30.30 % 
-CSS                      37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-JavaScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Astro                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+CSS                      45 mins             █████████░░░░░░░░░░░░░░░░   34.98 % 
+Astro                    29 mins             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+JavaScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+HTML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+SQL                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 
 🔥 Editors: 
-Antigravity IDE          2 hrs 27 mins       █████████████████████████   100.00 % 
+Antigravity IDE          2 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nikahan                  1 hr 40 mins        █████████████████░░░░░░░░   68.35 % 
-print_doctor             45 mins             ████████░░░░░░░░░░░░░░░░░   30.65 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+nikahan                  2 hrs 8 mins        █████████████████████████   98.86 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 27 mins (99.8%)
+⏱ AI Coding Time: 2 hrs 7 mins (97.83%)
 
-✍️ 1,252 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 913 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 478,442 Input Tokens, 25,596 Output Tokens
+🔤 33,037 Input Tokens, 7,472 Output Tokens
 
-💵 $18.90 Estimated AI Cost This Week
+💵 $1.84 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 48 AI Prompts
+🧠 5 AI Sessions, 53 AI Prompts
 
-Gemini                   592 lines           ███████████░░░░░░░░░░░░░░   43.37 % 
-Mimo                     460 lines           ████████░░░░░░░░░░░░░░░░░   33.70 % 
-Sonnet                   304 lines           ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
-Opus                     9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Gemini                   716 lines           ██████████████░░░░░░░░░░░   57.74 % 
+Sonnet                   304 lines           ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
+Mimo                     211 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Opus                     9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 488 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
+📝 Concise Prompter — average 384 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -115,7 +114,7 @@ Dart                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Falzz1010/Falzz1010/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 22:00:57 UTC
+ Last Updated on 15/09/2026 21:43:38 UTC
 <!--END_SECTION:waka-->
 
 
